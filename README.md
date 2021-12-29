@@ -1,9 +1,4 @@
 # hello-world
-New training repository
+New remote repository - training with GitHub
 
-Hi,
-
-I am a newbie, let's try make something.
-
-Best Regards,
-Adrian
+I am a newbie, let's try to make something.
