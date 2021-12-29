@@ -11,3 +11,4 @@ Fourth line.
 
 feature: First line.
 feature: Second line.
+feature: Third line.
